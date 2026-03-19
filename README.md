@@ -2,7 +2,7 @@
 
 A very serious specification framework.
 
-## Purpose
+ Purpose
 
 This repository defines the trait models used by the Elena Research Lab.
 
@@ -10,7 +10,7 @@ It contains structured trait definitions and weighting systems used by detection
 
 Detection logic itself is implemented in the `hot-nerd-detector` repository.
 
-## Structure
+Structure
 
 traits/
     visual
