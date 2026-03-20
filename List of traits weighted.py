@@ -23,6 +23,7 @@ Detection and scoring are handled separately by the `hot-nerd-detector` project.
 - rolled_up_sleeves : 2
 - single : 2
 - messy_blonde_hair : 3
+- bikes_to_work: 2
 
 ## Notes
 
