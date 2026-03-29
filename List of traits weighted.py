@@ -25,6 +25,7 @@ Detection and scoring are handled separately by the `hot-nerd-detector` project.
 - messy_blonde_hair : 4
 - bikes_to_work: 2
 - reads : 2
+- speaks_foreign_language: 2
 ## Notes
 
 Higher weights indicate stronger preference signals.
